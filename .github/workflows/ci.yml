@@ -2,7 +2,7 @@ name: Node.js CI
 on: push
 
 jobs:
-  build:
+  NomJob:
     runs-on: ubuntu-latest
 
     steps:
